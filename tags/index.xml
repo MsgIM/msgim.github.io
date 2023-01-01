@@ -1,7 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Tags - Tag - MsgIM</title>
-        <link>https://msgim.github.io/tags/</link>
-        <description>Tags - Tag - MsgIM</description>
-        <generator>Hugo -- gohugo.io</generator><atom:link href="https://msgim.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
-</rss>

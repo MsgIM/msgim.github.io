@@ -1,10 +1,1 @@
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml"
-    ><url>
-            <loc>https://msgim.github.io/</loc><lastmod>2022-09-21T10:12:35&#43;08:00</lastmod></url><url>
-            <loc>https://msgim.github.io/posts/my-first-post1/</loc><lastmod>2022-09-21T10:12:35&#43;08:00</lastmod></url><url>
-            <loc>https://msgim.github.io/posts/</loc><lastmod>2022-09-21T10:12:35&#43;08:00</lastmod></url><url>
-            <loc>https://msgim.github.io/posts/my-first-post/</loc><lastmod>2022-09-17T07:19:06&#43;08:00</lastmod></url><url>
-            <loc>https://msgim.github.io/categories/</loc></url><url>
-            <loc>https://msgim.github.io/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"><url><loc>https://msg.im/about</loc><changefreq>daily</changefreq><priority>1.0</priority><lastmod>2023-01-01</lastmod></url><url><loc>https://msg.im/index</loc><changefreq>daily</changefreq><priority>1.0</priority><lastmod>2023-01-01</lastmod></url><url><loc>https://msg.im/posts</loc><changefreq>daily</changefreq><priority>1.0</priority><lastmod>2023-01-01</lastmod></url><url><loc>https://msg.im/tags</loc><changefreq>daily</changefreq><priority>1.0</priority><lastmod>2023-01-01</lastmod></url><url><loc>https://msg.im/404/index</loc><changefreq>monthly</changefreq><priority>0.5</priority><lastmod>2023-01-01</lastmod></url><url><loc>https://msg.im/about</loc><changefreq>monthly</changefreq><priority>0.5</priority><lastmod>2023-01-01</lastmod></url></urlset>
